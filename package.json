@@ -1,0 +1,25 @@
+{
+  "name": "nodelicious",
+  "version": "1.0.0",
+  "description": "Local alternative to bookmarks services like delicious",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edandaniel/nodelicious.git"
+  },
+  "keywords": [
+    "bookmark",
+    "bookmarks",
+    "favorite",
+    "favorites"
+  ],
+  "author": "edandaniel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/edandaniel/nodelicious/issues"
+  },
+  "homepage": "https://github.com/edandaniel/nodelicious#readme"
+}
